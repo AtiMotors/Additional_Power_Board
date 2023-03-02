@@ -1,72 +1,73 @@
-Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,APN,MPN,Manufacturer,Val,APN2,Package,Voltage,Specifications,Specification,Tol,DNL,TCO
-1,"Unpolarized capacitor, small symbol",C_0.01uf_0603_50V_ECJ-1VB1H103K,C7,C_0.01uf_0603_50V_ECJ-1VB1H103K,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,~,GCM188R91H103KA37D,ECJ-1VB1H103K,Panasonic,0.01u_0603_50V_10%,,,,,,,,
-2,"Polarized capacitor, US symbol",C_0.22uF_RAD_50V_20%,C14 C29,C_0.22uF_RAD_50V_20%,C_Elec_4x5.4,2,https://www.nichicon.co.jp/english/products/pdfs/e-uwp.pdf,,UWP1HR22MCL1GB,,"0.22uF, 50V, 20%",,,,,,,,
-3,"Unpolarized capacitor, small symbol",C_0603_0.047uF_16V_10%_ECJ-1VB1C473K,C10,C_0603_0.047uF_16V_10%_ECJ-1VB1C473K,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,~,AC0603KRX7R7BB473,ECJ-1VB1C473K,,0.047uF,AC0603KRX7R8BB473,,,,,,,
-4,,C_0603_0.1u_50V_C0603C104K5RACAUTO,C13 C22 C23 C28 C42,C_0603_0.1u_50V_C0603C104K5RACAUTO,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,5,,,C0603C104K5RACAUTO,,0.1u,,603,50V,,,,,
-5,"0.47uF, 25V, X7R, 0603, 10%",C_0603_0.47uF_25V_CGA3E3X7R1E474K080AB,C9 C27 C38 C39,C_0603_0.47uF_25V_CGA3E3X7R1E474K080AB,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,4,~,GCM188R71E474KA64D,CGA3E3X7R1E474K080AB,,0.47uF,,,,,,,,
-6,"Unpolarized capacitor, small symbol",C_0603_220pF_50V_ECJ-1VC1H221J,C6 C20 C35,C_0603_220pF_50V_ECJ-1VC1H221J,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,3,~,CC0603JRNPO9BN221,ECJ-1VC1H221J,,220pF,,,,"220pF, 50V, 5%, COG",,,,
-7,"Unpolarized capacitor, small symbol",C_10pF_0603_GCM1885C1H100JA16D,C8,C_10pF_0603_GCM1885C1H100JA16D,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,~,C0603C100J5GACAUTO,GCM1885C1H100JA16D,Murata Electronics,10pF_0603_50V_5%_COG,,,,,,,,
-8,"150pF, 5%, 0805, COG, 50V ",C_150pF_0805_08055A151J4T4A,C24,C_150pF_0805_08055A151J4T4A,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,~,C0805C151J5GAC7800,08055A151J4T4A,KEMET,150pF_0805_50V_5%,,,,,,,,
-9,"Unpolarized capacitor, small symbol",C_1uf_0603_GCJ188R71E105KA01D,C12 C41,C_1uf_0603_GCJ188R71E105KA01D,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,~,GCM188R71E105KA64J,GCJ188R71E105KA01D,Murata Electronics North America,1u,,,,,1u_0603_25V_10%,,,
-10,"2.2uF, 50V, X7R, 10%, 1206",C_2.2u_1206_GCJ31CR71H225KA12L,C15 C16 C17 C18 C19 C30 C31 C32 C33 C34,C_2.2u_1206_GCJ31CR71H225KA12L,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,10,https://www.murata.com/-/media/webrenewal/support/library/catalog/products/k35e.ashx?la=en-us&cvid=20200508021757000000,C1206C225K5RAC7800,GCJ31CR71H225KA12L,Murata Electronics,2.2u,,,,,,,,
-11,"3.3uF, 50V, 20%, D4 x L5.8, RAD",C_3.3uF_RAD_50V_20%,C43,C_3.3uF_RAD_50V_20%,C_Elec_4x5.8,1,https://www.nichicon.co.jp/english/products/pdfs/e-uud.pdf,EEE-1HA3R3NP,UUD1H3R3MCL1GS,,"0.22uF, 50V, 20%, 4mmx5.8mm",,,,,,20%,,
-12,,C_4.7u_1206_CL31B475KAHNNNE,C1 C2 C3 C4 C5,C_4.7u_1206_CL31B475KAHNNNE,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,5,,,CL31B475KAHNNNE,Samsung Electro-Mechanics,4.7u,,,,,,,,
-13,"4700pF, 5%, 0805, COG, 25V ",C_4700pF_0805_CL21C472JAFNNNE,C21,C_4700pF_0805_CL21C472JAFNNNE,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,~,08053A472JAT2A,CL21C472JAFNNNE,Samsung,4700pF_0805_25V_5%,,,,,,,,
-14,"6.8 pF, 0603, 50V, +/-0.25 pF , COG",C_6.8pF_0603_CL10C6R8CB8NNNC,C37,C_6.8pF_0603_CL10C6R8CB8NNNC,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,~,06035A6R8CAT2A,CL10C6R8CB8NNNC,Samsung,6.8pF,,,,,,,,
-15,"820pF, 0603, 50V, 5%, COG",C_820pF_0603_50V_GCM1885C1H821JA16D,C11 C26 C36 C40,C_820pF_0603_50V_GCM1885C1H821JA16D,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,4,~,,GCM1885C1H821JA16D,Murata Corporation,820pF,,,,,,,,
-16,"40V 3A Schottky Barrier Rectifier Diode, SMC",B340,D4 D5 D9 D10 D14 D15 D19,B340LB-13-F,D_SMB,7,https://www.diodes.com/assets/Datasheets/ds30240.pdf,SSB44-E3/52T,B340LB-13-F,Diodes Incorporated,"40 Vr, 3A, 0.45 Vf",,,,,,,,
-17,"Light emitting diode, small symbol",D_LED_0603_Blue_150060BS75000,D8 D13 D17,D_LED_0603_Blue_150060BS75000,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,3,~,,150060BS75000,,0603_5V,,,,,,,,
-18,"Light emitting diode, small symbol",D_LED_0603_Green_150060GS75000,D3 D7,D_LED_0603_Green_150060GS75000,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,150060GS75000,,0603_5V,,,,,,,,
-19,,D_LED_0603_Red_150060RS75000,D2 D12 D16 D18,D_LED_0603_Red_150060RS75000,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,4,,,150060RS75000,Würth Elektronik,Red,,,,,,,,
-20,,D_TVS_58.1V_ATV02W360B-HF,D1 D6 D11,D_TVS_40V_ATV02W360B-HF,D_SOD-123F,3,https://www.comchiptech.com/admin/files/product/ATV02W-HF%20series%20RevC.pdf,SMF36CA,ATV02W360B-HF,,"40V, 3.4 A",,,,,,,,
-21,"Fuse, 1206, rated 3.5 A, blow 9A , breakdown 50 A, 65 Vdc  ",Fuse_1206_SlowBlow_SF-1206SA350M-2,F1 F3 F6,Fuse_1206_SlowBlow_SF-1206SA350M-2,Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder,3,~,0685T3500-01,SF-1206SA350M-2,Bourns,"65 Vdc,  3.5 A Slow break, 50 A breakdown",,,,,,,,
-22,"Resettable fuse, polymeric positive temperature coefficient",Polyfuse,F2 F4 F5,Polyfuse,Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder,3,~,,,,,,,,,,,,
-23,,LM393DT,IC1 IC2 IC3,LM393DT,SOIC8,3,https://www.digikey.in/en/products/detail/stmicroelectronics/LM393DT/591695,LM393DR2G,LM393DT,ST Microelectronics,"+36V, 0.45 mA, Dual",,,,,,,,
-24,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01_Male,J5 J6 J7 J8,Conn_01x01_Male,PinHeader_1x01_P2.54mm_Vertical,4,~,,,,,,,,,,,,
-25,,J_Molex_01x04_311000040,J1 J9,J_Molex_01x04_311000040,Molex_311000040_4pos_1row_2.54mm_PolA,2,,,311000040,Molex,311000040,,,,,,,,
-26,,J_Molex_01x04_311000042,J2 J3 J4,J_Molex_01x04_311000042,Molex_311000042_4pos_1row_2.54mm_PolC,3,,,311000042,Molex,311000042,,,,,,,DNL,
-27,,PJ-002BH,J10,PJ-002BH,CUI_PJ-002BH,1,https://www.cuidevices.com/product/resource/pj-002bh.pdf,KLDHCX-0202-B,Manufacturer recommendations,CUI INC,"2.5 mm (ID) x 5.5 mm (OD), 24 Vdc, 5 A, right angle, Black",,,,,,,,
-28,Inductor,L_22uH_12A_37mOhms_SMD_12.5mmx13.5mm,L1,L_22uH_12A_37mOhms_SMD_12.5mmx13.5mm,L_Bourns_SRP1245A,1,https://www.bourns.com/docs/Product-Datasheets/SRP1265A.pdf,,SRP1265A-220M,Bourns Inc,22 uH,,,,,,,,
-29,"27 uH, 20%, 5A, 40mOhms, shielded, 12mmx12mm",L_27uH_5A_40mOhms_SMD_12.0mmx12.0mm,L3,L_27uH_5A_40mOhms_SMD_12.0mmx12.0mm,L_Bourns_SRR1210A,1,https://www.bourns.com/docs/Product-Datasheets/SRP1265A.pdf,SRR1210-270M/744770127,SRR1210A-270M,Bourns Inc,27 uH,,,,,,,,
-30,"33 uH, 20%, 3A, 60mOhms, shielded, 5050 ",L_33uH_3A_60mOhms_SMD_12.5mmx12.5mm,L2,L_33uH_3A_60mOhms_SMD_12.5mmx12.5mm,L_Bourns_SRR1260,1,https://www.bourns.com/docs/Product-Datasheets/SRP1265A.pdf,,SRR1260-330M,Bourns Inc,33 uH,,,,,,,,
-31,"58.8A Id, 100V Vds, 9.1mOhm Ron, PowerPAK-8",SIJ470DP-T1_GE3,Q1 Q2 Q3 Q4 Q5 Q6,SIJ470DP-T1_GE3,PowerPAK_SO-8_Single,6,https://www.vishay.com/docs/73152/si7336adp.pdf,SI7178DP-T1-GE3,SIJ470DP-T1_GE3,,"100 Vds, 58.8A, POWERPAK_SO-8, Rdson - 9.1mOhm",,,,,,,,
-32,,R_0R_0603_ERJ-3GEY0R00V,R15 R30 R32 R48 R53 R54 R55 R56 R57,R_0R_0603_ERJ-3GEY0R00V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,9,,,ERJ-3GEY0R00V,Panasonic - ECG,0R,,603,,,,,DNL,
-33,"Resistor, 0603, 1.15k, 1/10W, 1%, 100 ppm/degC",R_1.15k_0603_ERJ-3EKF1151V,R29,R_1.15k_0603_ERJ-3EKF1151V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,,ERJ-3EKF1151V,Panasonic,1.15k,,603,,,,,,
-34,"Resistor, 0603, 1.8k, 1/10W, 1%",R_1.8k_0603_ERJ-3EKF1801V,R2 R18,R_1.8k_0603_ERJ-3EKF1801V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,~,,ERJ-3EKF1801V,Panasonic - ECG,1.8k,,603,,,,,,
-35,,R_100k_0603_0.1%_ERA3APB104V,R14,R_100k_0603_0.1%_ERA3APB104V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,,ERA3APB104V,Panasonic - ECG,100k,,603,,,,,,
-36,,R_100k_0603_1{slash}10W_CRGP0603F100K,R1 R3 R10 R17 R21 R26 R36 R43 R50,R_100k_0603_1/10W_CRGP0603F100K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,9,,,ERJ-3EKF1003V,TE Connectivity,100k,,603,,,,,,
-37,"Resistor, 0603, 12k, 1/10W, 1%",R_12k_0603_ERJ3EKF1202V,R8 R11 R24 R27 R41 R44,R_12k_0603_ERJ3EKF1202V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,6,~,RMCF0603FT12K0,ERJ-3EKF1202V,Panasonic,12k,,603,,,,,,
-38,"Resistor, 0603, 174k, 1/10W, 1%, 100 ppm/degC",R_174k_0603_ERJ-3EKF1743V,R31,R_174k_0603_ERJ-3EKF1743V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,,ERJ-3EKF1743V,Panasonic,174k,,603,,,,,,
-39,,R_1k_0603_ERJ-3EKF1001V,R13,R_1k_0603_ERJ-3EKF1001V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,,3EKF1001V,Panasonic - ECG,1k,,603,,,,,,
-40,"Resistor, 0603, 20k, 1/10W, 1%, 200 ppm/degC",R_20k_0603_ERJ-3EKF2002V,R28,R_20k_0603_ERJ-3EKF2002V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,,ERJ-3EKF2002V,Panasonic,20k,,603,,,,,,
-41,"Resistor, 0603, 21k, 1/10W, 0.1%, 25 ppm/degC",R_21k_0603_RT0603BRD0721KL,R45,R_21k_0603_RT0603BRD0721KL,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,RT0603DRD0721KL,RT0603BRD0721KL,Yageo,21k,,603,,,,,,
-42,"27 mOhms, 1 %, 1/2 W, 0805, 200 ppm/degC",R_27mOhms_0805_ERJ-6BWFR027V,R16 R33,R_27mOhms_0805_ERJ-6BWFR027V,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-6BWFR027V/1466364?s=N4IgTCBcDaIKICUBSBaAbAIQOoDEEAYwB2ANRAF0BfIA,,ERJ-6BWFR027V,,27m,,805,,,,,,
-43,"Resistor, 0603, 3.3 k, 1/3 W, 1%",R_3.3k_0603_ERJ-PA3F3301V,R5 R6 R19 R34 R38 R52,R_3.3k_0603_ERJ-PA3F3301V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,6,~,,ERJ-PA3F3301V,,3.3k,,,,,,,,
-44,"Resistor, 0603, 30k, 1/5W, 0.1%",R_30k_0603_ERJ-PB3B3002V,R12,R_30k_0603_ERJ-PB3B3002V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-PB3B1002V/6212869?utm_adgroup=Resistors&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search_EN_Product&utm_term=&productid=&gclid=CjwKCAiAk--dBhABEiwAchIwka6FKuFY4ljs13Aqh4V6q6uDbOVbB93-tVt2t7GN4IMh41wX5UDZkRoC8W0QAvD_BwE,,ERJ-PB6B3002V,Panasonic,30k,,603,,,,,,
-45,"Resistor, 0603, 365E, 1/10W, 0.1%, ERA",R_365R_0603_ERA-3AEB3650V,R25,R_365R_0603_ERA-3AEB3650V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,,3AEB3650V,Panasonic - ECG,365E,,603,,,,,,
-46,"Resistor, 0603, 4.02k, 1/10W, 0.1%",R_4.02k_0603_RG1608P-4021-B-T5,R46,R_4.02k_0603_RG1608P-4021-B-T5,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,RN73H1JTTD4021B25/ERA-3AEB4021V,RG1608P-4021-B-T5,Susumu,4.02k,,603,,,,,,25 ppm/ degC
-47,"Resistor, 0603, 4.7k, 1/10W, 5%",R_4.7k_0603_ERJ-3GEYJ472V,R4 R22 R37 R51,R_4.7k_0603_ERJ-3GEYJ472V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,4,~,,ERJ-3GEYJ472V,Panasonic - ECG,4.7k,,603,,,,,,200 ppm/ degC
-48,,R_470R_0603_ERJ-3EKF4700V,R9,R_470R_0603_ERJ-3EKF4700V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,,ERJ-3EKF4700V,,470R,,603,,,,,DNL,
-49,"Resistor, 0603, 49.9k, 1/10W, 1%",R_49.9k_0603_ERJ3EKF4992V,R7 R23 R40,R_49.9k_0603_ERJ3EKF4992V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3,~,,ERJ-3EKF4992V,Panasonic,49.9k,,603,,,,,,
-50,"Resistor, 0603, 5.1k, 1/10W, 1%",R_5.1k_0603_RC0603FR-075K1L,R20 R35 R39,R_5.1k_0603_RC0603FR-075K1L,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3,~,,RC0603FR-0715KL,Yageo,5.1k,,603,,,,,,
-51,"Resistor, 0603, 56k, 1/10W, 1%, 100 ppm/degC",R_56k_0603_ERJ-3EKF5602V,R47,R_56k_0603_ERJ-3EKF5602V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,RC0603FR-0756KL,ERJ-3EKF5602V,Panasonic,56k,,603,,,,,,
-52,"56 mOhms, 1 %, 1/2 W, 0805, 200 ppm/degC",R_56mOhms_0805_ERJ-6BWFR056V,R49,R_56mOhms_0805_ERJ-6BWFR056V,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-6BWFR027V/1466364?s=N4IgTCBcDaIKICUBSBaAbAIQOoDEEAYwB2ANRAF0BfIA,,ERJ-6BWFR056V,,56m,,805,,,,,,
-53,"Resistor, 0603, 7.5k, 1/10W, 0.1%, ERA",R_7.5k_0603_ERA-3APB752V,R42,R_7.5k_0603_ERA-3APB752V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,RT0603BRD077K5L/RN73H1JTTD7501B25,ERA-3APB752V,Panasonic - ECG,7.5k,,603,,,,,,
-54,,AtiLogo,U1,AtiLogo,atilogo_19.06_10.16mm,1,,,,,,,,,,,,,
-55,"Switching Regulator, 45V, 3.3A gate drive, 750 kHz",LM25117MPH,U2 U3 U4,LM25117MPH,SOP65P640X110-21N,3,file:///C:/Designs/Designs/CON0100/Datasheets/lm25117-q1%20(1).pdf,,LM25117MPH/NOPB,Texas Instruments,"4.5 to 42V, 5 mA, 3.3 A Peak gate source, 750 kHz",,SOP-20 EP,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-Component Groups:,55,,,,,,,,,,,,,,,,,,
-Component Count:,150,,,,,,,,,,,,,,,,,,
-Fitted Components:,150,,,,,,,,,,,,,,,,,,
-Number of PCBs:,1,,,,,,,,,,,,,,,,,,
-Total components:,150,,,,,,,,,,,,,,,,,,
-Schematic Version:,V1.0,,,,,,,,,,,,,,,,,,
-Schematic Date:,1/10/2023,,,,,,,,,,,,,,,,,,
-PCB Variant:,default,,,,,,,,,,,,,,,,,,
-BoM Date:,1/30/2023 17:25,,,,,,,,,,,,,,,,,,
-Schematic Source:,CON0100.kicad_sch,,,,,,,,,,,,,,,,,,
-KiCad Version:,Eeschema (6.0.4),,,,,,,,,,,,,,,,,,
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,APN,MPN,Manufacturer,Val,APN2,Package,Voltage,Specifications,Specification,Tol,DNL,TCO,Total Quantity
+1,"Unpolarized capacitor, small symbol",C_0.01uf_0603_50V_ECJ-1VB1H103K,C7,C_0.01uf_0603_50V_ECJ-1VB1H103K,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,~,GCM188R91H103KA37D,ECJ-1VB1H103K,Panasonic,0.01u_0603_50V_10%,,,,,,,,,5
+2,"Polarized capacitor, US symbol",C_0.22uF_RAD_50V_20%,C14 C29,C_0.22uF_RAD_50V_20%,C_Elec_4x5.4,2,https://www.nichicon.co.jp/english/products/pdfs/e-uwp.pdf,,UWP1HR22MCL1GB,,"0.22uF, 50V, 20%",,,,,,,,,10
+3,"Unpolarized capacitor, small symbol",C_0603_0.047uF_16V_10%_ECJ-1VB1C473K,C10,C_0603_0.047uF_16V_10%_ECJ-1VB1C473K,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,~,AC0603KRX7R7BB473,ECJ-1VB1C473K,,0.047uF,AC0603KRX7R8BB473,,,,,,,,5
+4,,C_0603_0.1u_50V_C0603C104K5RACAUTO,C13 C22 C23 C28 C42,C_0603_0.1u_50V_C0603C104K5RACAUTO,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,5,,,C0603C104K5RACAUTO,,0.1u,,603,50V,,,,,,25
+5,"0.47uF, 25V, X7R, 0603, 10%",C_0603_0.47uF_25V_CGA3E3X7R1E474K080AB,C9 C27 C38 C39,C_0603_0.47uF_25V_CGA3E3X7R1E474K080AB,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,4,~,GCM188R71E474KA64D,CGA3E3X7R1E474K080AB,,0.47uF,,,,,,,,,20
+6,"Unpolarized capacitor, small symbol",C_0603_220pF_50V_ECJ-1VC1H221J,C6 C20 C35,C_0603_220pF_50V_ECJ-1VC1H221J,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,3,~,CC0603JRNPO9BN221,ECJ-1VC1H221J,,220pF,,,,"220pF, 50V, 5%, COG",,,,,15
+7,"Unpolarized capacitor, small symbol",C_10pF_0603_GCM1885C1H100JA16D,C8,C_10pF_0603_GCM1885C1H100JA16D,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,~,C0603C100J5GACAUTO,GCM1885C1H100JA16D,Murata Electronics,10pF_0603_50V_5%_COG,,,,,,,,,5
+8,"150pF, 5%, 0805, COG, 50V ",C_150pF_0805_08055A151J4T4A,C24,C_150pF_0805_08055A151J4T4A,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,~,C0805C151J5GAC7800,08055A151J4T4A,KEMET,150pF_0805_50V_5%,,,,,,,,,5
+9,"Unpolarized capacitor, small symbol",C_1uf_0603_GCJ188R71E105KA01D,C12 C41,C_1uf_0603_GCJ188R71E105KA01D,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,~,GCM188R71E105KA64J,GCJ188R71E105KA01D,Murata Electronics North America,1u,,,,,1u_0603_25V_10%,,,,10
+10,"2.2uF, 50V, X7R, 10%, 1206",C_2.2u_1206_GCJ31CR71H225KA12L,C15 C16 C17 C18 C19 C30 C31 C32 C33 C34,C_2.2u_1206_GCJ31CR71H225KA12L,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,10,https://www.murata.com/-/media/webrenewal/support/library/catalog/products/k35e.ashx?la=en-us&cvid=20200508021757000000,C1206C225K5RAC7800,GCJ31CR71H225KA12L,Murata Electronics,2.2u,,,,,,,,,50
+11,"3.3uF, 50V, 20%, D4 x L5.8, RAD",C_3.3uF_RAD_50V_20%,C43,C_3.3uF_RAD_50V_20%,C_Elec_4x5.8,1,https://www.nichicon.co.jp/english/products/pdfs/e-uud.pdf,EEE-1HA3R3NP,UUD1H3R3MCL1GS,,"0.22uF, 50V, 20%, 4mmx5.8mm",,,,,,20%,,,5
+12,,C_4.7u_1206_CL31B475KAHNNNE,C1 C2 C3 C4 C5,C_4.7u_1206_CL31B475KAHNNNE,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,5,,,CL31B475KAHNNNE,Samsung Electro-Mechanics,4.7u,,,,,,,,,25
+13,"4700pF, 5%, 0805, COG, 25V ",C_4700pF_0805_CL21C472JAFNNNE,C21,C_4700pF_0805_CL21C472JAFNNNE,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,~,08053A472JAT2A,CL21C472JAFNNNE,Samsung,4700pF_0805_25V_5%,,,,,,,,,5
+14,"6.8 pF, 0603, 50V, +/-0.25 pF , COG",C_6.8pF_0603_CL10C6R8CB8NNNC,C37,C_6.8pF_0603_CL10C6R8CB8NNNC,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,~,06035A6R8CAT2A,CL10C6R8CB8NNNC,Samsung,6.8pF,,,,,,,,,5
+15,"820pF, 0603, 50V, 5%, COG",C_820pF_0603_50V_GCM1885C1H821JA16D,C11 C26 C36 C40,C_820pF_0603_50V_GCM1885C1H821JA16D,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,4,~,,GCM1885C1H821JA16D,Murata Corporation,820pF,,,,,,,,,20
+16,"40V 3A Schottky Barrier Rectifier Diode, SMC",B340LB-13-F,D4 D5 D9 D10 D14 D15 D19,B340LB-13-F,D_SMB,7,https://www.diodes.com/assets/Datasheets/ds30240.pdf,SSB44-E3/52T,B340LB-13-F,Diodes Incorporated,"40 Vr, 3A, 0.45 Vf",,,,,,,,,35
+17,"Light emitting diode, small symbol",D_LED_0603_Blue_150060BS75000,D8 D13 D17,D_LED_0603_Blue_150060BS75000,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,3,~,,150060BS75000,,0603_5V,,,,,,,,,15
+18,"Light emitting diode, small symbol",D_LED_0603_Green_150060GS75000,D3 D7,D_LED_0603_Green_150060GS75000,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,150060GS75000,,0603_5V,,,,,,,,,10
+19,,D_LED_0603_Red_150060RS75000,D2 D12 D16 D18,D_LED_0603_Red_150060RS75000,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,4,,,150060RS75000,Würth Elektronik,Red,,,,,,,,,20
+20,,D_TVS_58.1V_ATV02W360B-HF,D1 D6 D11,D_TVS_40V_ATV02W360B-HF,D_SOD-123F,3,https://www.comchiptech.com/admin/files/product/ATV02W-HF%20series%20RevC.pdf,SMF36CA,ATV02W360B-HF,,"40V, 3.4 A",,,,,,,,,15
+21,"Fuse, 1206, rated 3.5 A, blow 9A , breakdown 50 A, 65 Vdc  ",Fuse_1206_SlowBlow_SF-1206SA350M-2,F1 F3 F6,Fuse_1206_SlowBlow_SF-1206SA350M-2,Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder,3,~,0685T3500-01,SF-1206SA350M-2,Bourns,"65 Vdc,  3.5 A Slow break, 50 A breakdown",,,,,,,,,15
+22,"Resettable fuse, polymeric positive temperature coefficient",Polyfuse,F2 F4 F5,Polyfuse,Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder,1,~,,MF-LSMF300/16X-2,,,,,,,,,,,5
+23,"Resettable fuse, polymeric positive temperature coefficient",Polyfuse,F2 F4 F5,Polyfuse,Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder,2,~,,MF-LSMF200/24X-2,,,,,,,,,,,10
+24,,LM393DT,IC1 IC2 IC3,LM393DT,SOIC8,3,https://www.digikey.in/en/products/detail/stmicroelectronics/LM393DT/591695,LM393DR2G,LM393DT,ST Microelectronics,"+36V, 0.45 mA, Dual",,,,,,,,,15
+25,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01_Male,J5 J6 J7 J8,Conn_01x01_Male,PinHeader_1x01_P2.54mm_Vertical,4,~,,,,,,,,,,,,,20
+26,,J_Molex_01x04_311000040,J1 J9,J_Molex_01x04_311000040,Molex_311000040_4pos_1row_2.54mm_PolA,2,,,311000040,Molex,311000040,,,,,,,,,10
+27,,J_Molex_01x04_311000042,J2 J3 J4,J_Molex_01x04_311000042,Molex_311000042_4pos_1row_2.54mm_PolC,3,,,311000042,Molex,311000042,,,,,,,DNL,,15
+28,,PJ-002BH,J10,PJ-002BH,CUI_PJ-002BH,1,https://www.cuidevices.com/product/resource/pj-002bh.pdf,KLDHCX-0202-B,PJ-002BH,CUI INC,"2.5 mm (ID) x 5.5 mm (OD), 24 Vdc, 5 A, right angle, Black",,,,,,,,,5
+29,Inductor,L_22uH_12A_37mOhms_SMD_12.5mmx13.5mm,L1,L_22uH_12A_37mOhms_SMD_12.5mmx13.5mm,L_Bourns_SRP1245A,1,https://www.bourns.com/docs/Product-Datasheets/SRP1265A.pdf,,SRP1265A-220M,Bourns Inc,22 uH,,,,,,,,,5
+30,"27 uH, 20%, 5A, 40mOhms, shielded, 12mmx12mm",L_27uH_5A_40mOhms_SMD_12.0mmx12.0mm,L3,L_27uH_5A_40mOhms_SMD_12.0mmx12.0mm,L_Bourns_SRR1210A,1,https://www.bourns.com/docs/Product-Datasheets/SRP1265A.pdf,SRR1210-270M/744770127,SRR1210A-270M,Bourns Inc,27 uH,,,,,,,,,5
+31,"33 uH, 20%, 3A, 60mOhms, shielded, 5050 ",L_33uH_3A_60mOhms_SMD_12.5mmx12.5mm,L2,L_33uH_3A_60mOhms_SMD_12.5mmx12.5mm,L_Bourns_SRR1260,1,https://www.bourns.com/docs/Product-Datasheets/SRP1265A.pdf,,SRR1260-330M,Bourns Inc,33 uH,,,,,,,,,5
+32,"58.8A Id, 100V Vds, 9.1mOhm Ron, PowerPAK-8",SIJ470DP-T1_GE3,Q1 Q2 Q3 Q4 Q5 Q6,SIJ470DP-T1_GE3,PowerPAK_SO-8_Single,6,https://www.vishay.com/docs/73152/si7336adp.pdf,SI7178DP-T1-GE3,SIJ470DP-T1_GE3,,"100 Vds, 58.8A, POWERPAK_SO-8, Rdson - 9.1mOhm",,,,,,,,,30
+33,,R_0R_0603_ERJ-3GEY0R00V,R15 R30 R32 R48 R53 R54 R55 R56 R57,R_0R_0603_ERJ-3GEY0R00V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,9,,,ERJ-3GEY0R00V,Panasonic - ECG,0R,,603,,,,,DNL,,45
+34,"Resistor, 0603, 1.15k, 1/10W, 1%, 100 ppm/degC",R_1.15k_0603_ERJ-3EKF1151V,R29,R_1.15k_0603_ERJ-3EKF1151V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,,ERJ-3EKF1151V,Panasonic,1.15k,,603,,,,,,,5
+35,"Resistor, 0603, 1.8k, 1/10W, 1%",R_1.8k_0603_ERJ-3EKF1801V,R2 R18,R_1.8k_0603_ERJ-3EKF1801V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,~,,ERJ-3EKF1801V,Panasonic - ECG,1.8k,,603,,,,,,,10
+36,,R_100k_0603_0.1%_ERA3APB104V,R14,R_100k_0603_0.1%_ERA3APB104V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,,ERA3APB104V,Panasonic - ECG,100k,,603,,,,,,,5
+37,,R_100k_0603_1{slash}10W_CRGP0603F100K,R1 R3 R10 R17 R21 R26 R36 R43 R50,R_100k_0603_1/10W_CRGP0603F100K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,9,,,ERJ-3EKF1003V,TE Connectivity,100k,,603,,,,,,,45
+38,"Resistor, 0603, 12k, 1/10W, 1%",R_12k_0603_ERJ3EKF1202V,R8 R11 R24 R27 R41 R44,R_12k_0603_ERJ3EKF1202V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,6,~,RMCF0603FT12K0,ERJ-3EKF1202V,Panasonic,12k,,603,,,,,,,30
+39,"Resistor, 0603, 174k, 1/10W, 1%, 100 ppm/degC",R_174k_0603_ERJ-3EKF1743V,R31,R_174k_0603_ERJ-3EKF1743V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,,ERJ-3EKF1743V,Panasonic,174k,,603,,,,,,,5
+40,,R_1k_0603_ERJ-3EKF1001V,R13,R_1k_0603_ERJ-3EKF1001V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,,3EKF1001V,Panasonic - ECG,1k,,603,,,,,,,5
+41,"Resistor, 0603, 20k, 1/10W, 1%, 200 ppm/degC",R_20k_0603_ERJ-3EKF2002V,R28,R_20k_0603_ERJ-3EKF2002V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,,ERJ-3EKF2002V,Panasonic,20k,,603,,,,,,,5
+42,"Resistor, 0603, 21k, 1/10W, 0.1%, 25 ppm/degC",R_21k_0603_RT0603BRD0721KL,R45,R_21k_0603_RT0603BRD0721KL,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,RT0603DRD0721KL,RT0603BRD0721KL,Yageo,21k,,603,,,,,,,5
+43,"27 mOhms, 1 %, 1/2 W, 0805, 200 ppm/degC",R_27mOhms_0805_ERJ-6BWFR027V,R16 R33,R_27mOhms_0805_ERJ-6BWFR027V,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-6BWFR027V/1466364?s=N4IgTCBcDaIKICUBSBaAbAIQOoDEEAYwB2ANRAF0BfIA,,ERJ-6BWFR027V,,27m,,805,,,,,,,10
+44,"Resistor, 0603, 3.3 k, 1/3 W, 1%",R_3.3k_0603_ERJ-PA3F3301V,R5 R6 R19 R34 R38 R52,R_3.3k_0603_ERJ-PA3F3301V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,6,~,,ERJ-PA3F3301V,,3.3k,,,,,,,,,30
+45,"Resistor, 0603, 30k, 1/5W, 0.1%",R_30k_0603_ERJ-PB3B3002V,R12,R_30k_0603_ERJ-PB3B3002V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-PB3B1002V/6212869?utm_adgroup=Resistors&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search_EN_Product&utm_term=&productid=&gclid=CjwKCAiAk--dBhABEiwAchIwka6FKuFY4ljs13Aqh4V6q6uDbOVbB93-tVt2t7GN4IMh41wX5UDZkRoC8W0QAvD_BwE,,ERJ-PB6B3002V,Panasonic,30k,,603,,,,,,,5
+46,"Resistor, 0603, 365E, 1/10W, 0.1%, ERA",R_365R_0603_ERA-3AEB3650V,R25,R_365R_0603_ERA-3AEB3650V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,,3AEB3650V,Panasonic - ECG,365E,,603,,,,,,,5
+47,"Resistor, 0603, 4.02k, 1/10W, 0.1%",R_4.02k_0603_RG1608P-4021-B-T5,R46,R_4.02k_0603_RG1608P-4021-B-T5,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,RN73H1JTTD4021B25/ERA-3AEB4021V,RG1608P-4021-B-T5,Susumu,4.02k,,603,,,,,,25 ppm/ degC,5
+48,"Resistor, 0603, 4.7k, 1/10W, 5%",R_4.7k_0603_ERJ-3GEYJ472V,R4 R22 R37 R51,R_4.7k_0603_ERJ-3GEYJ472V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,4,~,,ERJ-3GEYJ472V,Panasonic - ECG,4.7k,,603,,,,,,200 ppm/ degC,20
+49,"Resistor, 0603, 470E, 1/10W, 5%",R_470R_0603_ERJ-3EKF4700V,R9,R_470R_0603_ERJ-3EKF4700V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,,ERJ-3EKF4700V,,470R,,603,,,,,DNL,,5
+50,"Resistor, 0603, 49.9k, 1/10W, 1%",R_49.9k_0603_ERJ3EKF4992V,R7 R23 R40,R_49.9k_0603_ERJ3EKF4992V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3,~,,ERJ-3EKF4992V,Panasonic,49.9k,,603,,,,,,,15
+51,"Resistor, 0603, 5.1k, 1/10W, 1%",R_5.1k_0603_RC0603FR-075K1L,R20 R35 R39,R_5.1k_0603_RC0603FR-075K1L,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3,~,,RC0603FR-0715KL,Yageo,5.1k,,603,,,,,,,15
+52,"Resistor, 0603, 56k, 1/10W, 1%, 100 ppm/degC",R_56k_0603_ERJ-3EKF5602V,R47,R_56k_0603_ERJ-3EKF5602V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,RC0603FR-0756KL,ERJ-3EKF5602V,Panasonic,56k,,603,,,,,,,5
+53,"56 mOhms, 1 %, 1/2 W, 0805, 200 ppm/degC",R_56mOhms_0805_ERJ-6BWFR056V,R49,R_56mOhms_0805_ERJ-6BWFR056V,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-6BWFR027V/1466364?s=N4IgTCBcDaIKICUBSBaAbAIQOoDEEAYwB2ANRAF0BfIA,,ERJ-6BWFR056V,,56m,,805,,,,,,,5
+54,"Resistor, 0603, 7.5k, 1/10W, 0.1%, ERA",R_7.5k_0603_ERA-3APB752V,R42,R_7.5k_0603_ERA-3APB752V,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,~,RT0603BRD077K5L/RN73H1JTTD7501B25,ERA-3APB752V,Panasonic - ECG,7.5k,,603,,,,,,,5
+55,,AtiLogo,U1,AtiLogo,atilogo_19.06_10.16mm,1,,,,,,,,,,,,,,0
+56,"Switching Regulator, 45V, 3.3A gate drive, 750 kHz",LM25117MPH,U2 U3 U4,LM25117MPH,SOP65P640X110-21N,3,file:///C:/Designs/Designs/CON0100/Datasheets/lm25117-q1%20(1).pdf,,LM25117MPH/NOPB,Texas Instruments,"4.5 to 42V, 5 mA, 3.3 A Peak gate source, 750 kHz",,SOP-20 EP,,,,,,,15
+,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,Total Components ,745
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Component Groups:,55,,,,,,,,,,,,,,,,,,,
+Component Count:,150,,,,,,,,,,,,,,,,,,,
+Fitted Components:,150,,,,,,,,,,,,,,,,,,,
+Number of PCBs:,1,,,,,,,,,,,,,,,,,,,
+Total components:,150,,,,,,,,,,,,,,,,,,,
+Schematic Version:,V1.0,,,,,,,,,,,,,,,,,,,
+Schematic Date:,1/10/2023,,,,,,,,,,,,,,,,,,,
+PCB Variant:,default,,,,,,,,,,,,,,,,,,,
+BoM Date:,1/30/2023 17:25,,,,,,,,,,,,,,,,,,,
+Schematic Source:,CON0100.kicad_sch,,,,,,,,,,,,,,,,,,,
+KiCad Version:,Eeschema (6.0.4),,,,,,,,,,,,,,,,,,,
